@@ -121,7 +121,7 @@ CREATE TABLE [dbo].[EMPLOYEE](
 GO
 SET ANSI_PADDING OFF
 GO
-/****** Object:  Table [dbo].[MONTHS]    Script Date: 14.04.2020 10:14:35 ******/
+/****** Object:  Table [dbo].[MONTHS]   ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -140,7 +140,7 @@ CREATE TABLE [dbo].[MONTHS](
 GO
 SET ANSI_PADDING OFF
 GO
-/****** Object:  Table [dbo].[PERMISSION]    Script Date: 14.04.2020 10:14:35 ******/
+/****** Object:  Table [dbo].[PERMISSION]    ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -160,7 +160,7 @@ CREATE TABLE [dbo].[PERMISSION](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 
 GO
-/****** Object:  Table [dbo].[PERMISSIONSTATE]    Script Date: 14.04.2020 10:14:35 ******/
+/****** Object:  Table [dbo].[PERMISSIONSTATE]    ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
