@@ -3,10 +3,10 @@
 ## **Description**
 A robust **C# Windows application** for comprehensive **employee management**, featuring:
 - **Employee Management**: Add, edit, delete, and track employee details.
-- **Real-time Tracking**: Monitor employee activity and attendance.
+- **Task Tracking**: Monitor employee task tracking.
 - **Task Approvals**: Streamlined task approval workflow for managers.
 - **Payroll System**: Automated payroll calculation and generation.
-- **Secure Access Control**: Role-based authentication (Admin, HR, Employee).
+- **Secure Access Control**: Role-based authentication .
 - **Designed with N-tier architecture** for scalability and maintainability.
 
 This application is built using **WinForms** with **DevExpress UI components**, running on **.NET Framework** with **MS-SQL Server** as the database.
@@ -46,13 +46,17 @@ git clone https://github.com/dgkans/PersonnelTrackingApp.git
 cd PersonnelTrackingApp
 ```
 #### **2. Run Database
+```sh
 # Open SQL Server Management Studio (SSMS)
 # Run the following command to create the database:
 
 CREATE DATABASE EmployeeDB;
 GO
+```
 
-#### **2. Run Application
+#### **3. Run Application
+```sh
 # Open the project in Visual Studio 2022
 # Build the solution by clicking on "Build" > "Build Solution" (or press Ctrl + Shift + B)
 # Click the "Start" button in Visual Studio to run the application
+```
