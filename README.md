@@ -1,4 +1,4 @@
-# **Employee Management System - C# Windows Application**
+# **Personnel Tracking App - C# Windows Application**
 
 ## **Description**
 A robust **C# Windows application** for comprehensive **employee management**, featuring:
